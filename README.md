@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![image info](./about.png)
 
-[![Website Preview](https://nighthawkk.github.io/Nighthawk/Screenshot.png)](https://nighthawkk.github.io/Nighthawk)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nighthawkk&label=Profile%20views&color=0e75b6&style=flat" alt="nighthawkk" /> </p>
 
